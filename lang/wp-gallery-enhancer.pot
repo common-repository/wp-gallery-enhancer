@@ -1,0 +1,82 @@
+# WP Gallery Enhancer.
+# Copyright (C) 2019 vedathemes
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <contact@vedathemes.com>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-gallery-enhancer 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-07 17:38+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: backend/inc/class-widgetlayer.php:128
+msgid "Gallery Style"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:129
+msgid "-- Default Gallery --"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:133
+msgid "Slider"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:134
+msgid "Masonry"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:139
+msgid "Image Cropping Size"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:140
+msgid "-- No Cropping --"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:144
+msgid "Landscape (4:3)"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:145
+msgid "Landscape (3:2)"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:146
+msgid "Portrait (3:4)"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:147
+msgid "Portrait (2:3)"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:148
+msgid "Widescreen (16:9)"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:149
+msgid "Square (1:1)"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:154
+msgid "Image Crop Position"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:155
+msgid "-- Default --"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:159
+msgid "Top Left Crop"
+msgstr ""
+
+#: backend/inc/class-widgetlayer.php:160
+msgid "Center Crop"
+msgstr ""

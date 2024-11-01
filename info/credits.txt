@@ -1,0 +1,21 @@
+== Resources ==
+* flickity.pkgd.js https://github.com/metafizzy/flickity, (C) Desandro, [GPLV3]
+* Image in screenshot https://stocksnap.io/photo/USCQIUGHQW, (C) Burst, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* Image in screenshot https://stocksnap.io/photo/7OM7XWHAWJ, (C) Raphael Schaller, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* Image in screenshot https://stocksnap.io/photo/OULQDJGGLA, (C) Bernard Spragg, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* Image in screenshot https://stocksnap.io/photo/SGB90NJ62R, (C) Ian Livesey , [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Following images used in plugin's cover image [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+https://stocksnap.io/photo/VMDNU0TJK8
+https://stocksnap.io/photo/DWBKKRNQ9X
+https://stocksnap.io/photo/NTJQESHMET
+https://stocksnap.io/photo/NPCFR4GDNF
+https://stocksnap.io/photo/NWAPXFUMDW
+https://stocksnap.io/photo/R57YUC6GR4
+https://stocksnap.io/photo/BWPRK5DEF0
+https://stocksnap.io/photo/UQOXY4POK8
+https://stocksnap.io/photo/OCS0KRIMGN
+https://stocksnap.io/photo/EI32JIXJ7Q
+https://stocksnap.io/photo/9QLIF5KSSQ
+https://stocksnap.io/photo/29PH3DAQ7C
+https://stocksnap.io/photo/RQ2JLHTFHD
